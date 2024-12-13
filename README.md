@@ -11,4 +11,5 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 
 ### Pasos a seguir
 -a) Crear la base de datos con el archivo create_restaurant_db.sql
+
 -b) Explorar la tabla “menu_items” para conocer los productos del menú.
