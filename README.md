@@ -12,4 +12,11 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 ### Pasos a seguir
 -a) Crear la base de datos con el archivo create_restaurant_db.sql
 
--b) Explorar la tabla “menu_items” para conocer los productos del menú.
+-b) Explorar la tabla “menu_items” para conocer los productos del menú. 
+
+-1.- Realizar consultas para contestar las siguientes preguntas:
+
+![image](https://github.com/user-attachments/assets/ddca72b6-1ed6-451f-bf96-25449011944b)
+
+
+● ¿Cuántos platos americanos hay en el menú?
